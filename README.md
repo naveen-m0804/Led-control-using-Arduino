@@ -58,8 +58,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![image](https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/b8d7ff84-f6db-4d23-b038-49b2503bec0b)
-<img src="https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/b8d7ff84-f6db-4d23-b038-49b2503bec0b" alt="alt text" width="600" height="400" class="center">
+<img src="https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/b8d7ff84-f6db-4d23-b038-49b2503bec0b" alt="alt text" width="700" height="600" class="center">
 ## PROGRAM
 ```
 const int buttonPin=2;
@@ -85,8 +84,9 @@ void loop() {
 }
 ```
 ## OUTPUT
-![image](https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2f9511fc-d617-46b3-856c-057eddefe6e7)
-![image](https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2001555b-5869-4f72-b546-abcb5d3936a6)
+
+<img src="https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2f9511fc-d617-46b3-856c-057eddefe6e7" alt="alt text" width="700" height="600" class="center">
+<img src="https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2001555b-5869-4f72-b546-abcb5d3936a6" alt="alt text" width="700" height="600" class="center">
 
 ## RESULT
 Thus to design and implement a system for LED control using an Arduino microcontroller and a push button is successfully executed
