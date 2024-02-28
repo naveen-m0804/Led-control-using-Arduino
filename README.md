@@ -59,6 +59,7 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 <img src="https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/b8d7ff84-f6db-4d23-b038-49b2503bec0b" alt="alt text" width="700" height="600" class="center">
+
 ## PROGRAM
 ```
 const int buttonPin=2;
@@ -83,6 +84,7 @@ void loop() {
   }
 }
 ```
+
 ## OUTPUT
 
 <img src="https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2f9511fc-d617-46b3-856c-057eddefe6e7" alt="alt text" width="700" height="600" class="center">
