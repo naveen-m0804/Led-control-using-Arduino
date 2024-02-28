@@ -58,9 +58,35 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![image](https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/b8d7ff84-f6db-4d23-b038-49b2503bec0b)
 
 ## PROGRAM
+```
+const int buttonPin=2;
+const int ledPin=13;
+int buttonState=0;
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(ledPin,OUTPUT);
+  pinMode(buttonPin,INPUT);
+}
 
+void loop() {
+  // put your main code here, to run repeatedly:
+  buttonState = digitalRead(buttonPin);
+  if(buttonState==HIGH)
+  {
+    digitalWrite(ledPin,HIGH);
+  }
+  else 
+  {
+    digitalWrite(ledPin,LOW);
+  }
+}
+```
 ## OUTPUT
+![image](https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2f9511fc-d617-46b3-856c-057eddefe6e7)
+![image](https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2001555b-5869-4f72-b546-abcb5d3936a6)
 
 ## RESULT
+Thus to design and implement a system for LED control using an Arduino microcontroller and a push button is successfully executed
