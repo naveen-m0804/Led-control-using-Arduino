@@ -87,11 +87,10 @@ void loop() {
 
 ## OUTPUT
 
-LED OFF
-
+## LED OFF
 <img src="https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2f9511fc-d617-46b3-856c-057eddefe6e7" alt="alt text" width="500" height="300" class="center">
-
-LED ON
+<br>
+## LED ON
 <img src="https://github.com/naveen-m0804/Led-control-using-Arduino/assets/117974950/2001555b-5869-4f72-b546-abcb5d3936a6" alt="alt text" width="500" height="300" class="center">
 
 ## RESULT
