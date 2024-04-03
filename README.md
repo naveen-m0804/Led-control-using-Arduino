@@ -1,6 +1,6 @@
 #### Name: NAVEEN M
 #### Reg.No: 212222110029
-#### Experiment 1: Led control using Arduino
+# Experiment 1: Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
